@@ -1,0 +1,14 @@
+VAR n = 0
+WHILE n < 2 THEN
+    ROVER.change_map map
+    ROVER.random_location
+    ROVER.info
+    ROVER.turn_left
+    ROVER.move_forward
+    ROVER.drill
+    ROVER.turn_right
+    ROVER.drill
+    ROVER.info
+    VAR n = n + 1
+
+END

@@ -1,0 +1,3 @@
+ROVER.change_map map1
+ROVER.change_map map
+ROVER.change_map map3
